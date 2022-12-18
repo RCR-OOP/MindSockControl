@@ -1,0 +1,7 @@
+{
+    "name": "MinSockControl",
+    "description": "Control your server via socket!",
+    "author": "TendingStream73#5806 <- Discord",
+    "main": "tending.minsockcontrol.Library",
+    "version": "0.1"
+}
